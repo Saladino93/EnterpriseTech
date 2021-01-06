@@ -1,0 +1,47 @@
+,Name,Thickness (mm),Width (mm),Length (mm),Area (m^2),Density (kg/m^3),Weight/m^2 (kg),Weight (kg),Thermal Conductivity (W/mK),Compressive Strength (kPa),Fire Rating (Reaction to Fire),Fire Protection (Resistance to Fire) (min),Price No VAT (£),Price VAT (£),R-Value m2K/W
+0, 19.1mm Promat Monolux 500 Fire Protection Board, 19.1, 1220, 2440, 2.98m2, 750kg/m3, 14.32kg, 42.64kg, 0.180W/mK, 13000kPa, A1(Non-combustible), 240minutes,299.20,359.04,
+1,1.5kg Promafour-HT Joint Filler - Fire Protective Joint Filler,,,,,,,,,,,,49.87,59.84,
+2,12.5mm Fire Panel (formerly known as Fireshield) Plasterboard - Wall Board Knauf, 12.5, 1200, 2400,,, 10kg, 28.8kg, 0.240W/mK,,,,13.86,11.55,
+3,12.5mm Gyproc FireLine MR Plasterboard 1200mm x 3000 mm, 12.5, 1200, 3000, 3.6m2,, 9.8kg,, 0.240W/mK,, A2(Limited combustibility),,19.31,23.17, 0.05m2K/W
+4,12.5mm Knauf Performance Plus - High Performance Plasterboard 1200x2400mm, 12.5, 1200, 2400, 2.88m2, 920kg/m3, 11.5kg, 33.12kg, 0.240W/mK,, A2(Limited combustibility), 60minutes,14.20,17.04,
+5,12.5mm Knauf Performance Plus - High Performance Plasterboard 1200x3000mm, 12.5, 1200, 3000, 3.6m2, 920kg/m3, 11.5kg, 41.4kg, 0.240W/mK,, A2(Limited combustibility),,,,
+6,12.7mm Promat Monolux 500 Fire Protection Board, 12.7, 1220, 2440, 2.98m2, 750kg/m3, 9.53kg, 28.35kg, 0.180W/mK, 13000kPa, A1(Non-combustible), 240minutes,295.00,354.00,
+7,12.7mm Promat Monolux 800 Fire Protection Board, 12.7, 1220, 2440, 2.98m2, 920kg/m3, 11.68kg, 34.78kg, 0.350W/mK, 27000kPa, A1(Non-combustible), 240minutes,226.61,271.93,
+8,12mm Masterboard Promat  , 12, 1220, 2440, 2.98m2, 1000kg/m3, 12kg, 35.76kg, 18.330W/mK, 7000kPa, A2(Limited combustibility), 30minutes,182.60,152.17, 0.05m2K/W
+9,12mm Promat PROMAFOUR Non-Combustible Fire Resistant Board - 1250x1250mm, 12, 1250, 1250, 1.56m2, 970kg/m3, 12.3kg, 19.22kg, 0.180W/mK,, A1(Non-combustible), 240minutes,,,
+10,12mm Promat PROMAFOUR Non-Combustible Fire Resistant Board - 2500x1250mm, 12, 1250, 2500, 3.13m2, 970kg/m3, 12.3kg, 34.5kg, 0.180W/mK,, A1(Non-combustible), 240minutes,198.94,238.73,
+11,12mm Supalux Promat Fire Protection Board, 12, 1220, 2440, 2.98m2, 950kg/m3, 11.4kg, 33.97kg,, 6000kPa, A1(Non-combustible), 60minutes,188.15,156.79,
+12,15mm Fire Panel (formerly known as Fireshield) Plasterboard - Wall Board Knauf, 15, 1200, 2400, 2.88m2,, 12.8kg, 34.56kg, 0.240W/mK,,,,16.76,13.97,
+13,15mm Glasroc F Firecase, 15, 1200, 2400,,, 12.8kg,, 0.286W/mK,,,,49.76,41.47, 0.05m2K/W
+14,15mm Gyproc FireLine MR Plasterboard 1200mm x 3000mm, 15, 1200, 3000, 3.6m2,, 11.7kg,, 0.240W/mK,, A2(Limited combustibility),,20.99,25.19, 0.06m2K/W
+15,15mm Knauf Fireboard - High Performance Plasterboard 1200mm x 2400mm, 15, 1200, 2400, 2.88m2, 847kg/m3, 12.7kg, 36.58kg, 0.230W/mK,, A1(Non-combustible), 120minutes,,,
+16,15mm Knauf Performance Plus - High Performance Plasterboard 1200x2400mm, 15, 1200, 2400,, 853kg/m3, 12.8kg, 33.12kg,,, A2(Limited combustibility), 60minutes,18.80,22.56,
+17,15mm Knauf Performance Plus - High Performance Plasterboard 1200x3000mm, 15, 1200, 3000, 3.6m2, 853kg/m3, 12.8kg, 46.08kg, 0.240W/mK,, A2(Limited combustibility), 60minutes,,,
+18,15mm Promat PROMAFOUR Non-Combustible Fire Resistant Board - 1250x1250mm, 15, 1250, 1250, 1.56m2, 970kg/m3, 15.4kg, 24.02kg, 0.180W/mK,, A1(Non-combustible), 240minutes,,,
+19,15mm Promat PROMAFOUR Non-Combustible Fire Resistant Board - 2500x1250mm, 15, 1250, 2500,, 970kg/m3, 15.4kg, 48.2kg, 0.180W/mK,, A1(Non-combustible), 240minutes,,,
+20,15mm Supalux Promat Fire Protection Board, 15, 1220, 2440, 2.98m2, 950kg/m3, 14.25kg, 42.42kg, 0.170W/mK, 6000kPa, A1(Non-combustible), 120minutes,222.88,267.46, 0.07m2K/W
+21,19mm British Gypsum Gyproc Coreboard Plasterboard, 19, 600, 3000, 1.79m2,, 16kg,, 0.240W/mK,, A2(Limited combustibility),,22.87,19.06, 0.08m2K/W
+22,20mm Knauf Fireboard - High Performance Plasterboard 1200mm x 2400mm, 20, 1200, 2400, 2.88m2, 820kg/m3, 16.4kg, 47.23kg, 0.230W/mK,, A1(Non-combustible), 120minutes,,,
+23,20mm Promat Monolux 800 Fire Protection Board, 20, 1220, 2440, 2.98m2, 920kg/m3, 18.2kg,, 0.350W/mK, 27000kPa, A1(Non-combustible), 240minutes,340.82,408.98,
+24,20mm Promat PROMATECT L500 Calcium Silicate Board for Fire Resistant Ducts, 20, 1200, 2500, 3m2, 500kg/m3, 10kg, 30kg, 0.090W/mK, 5500kPa, A1(Non-combustible),,,,
+25,25.4mm Promat Monolux 500 Fire Protection Board 25.4mm, 25.4, 1220, 2440, 2.98m2, 750kg/m3, 19.05kg, 56.71kg, 0.180W/mK, 13000kPa, A1(Non-combustible), 240minutes,381.61,457.93,
+26,25mm Glasroc F Firecase, 25, 1200, 2000, 2.4m2,, 21.3kg,, 0.300W/mK,,,,43.22,51.86, 0.08m2K/W
+27,25mm Knauf Fireboard - High Performance Plasterboard 1200mm x 2400mm, 25, 1200, 2400, 2.88m2, 816kg/m3, 20.4kg, 58.75kg, 0.230W/mK,, A1(Non-combustible), 120minutes,,,
+28,25mm Promat Monolux 800 Fire Protection Board, 25, 1220, 2440, 2.98m2, 920kg/m3, 23kg, 68.5kg, 0.350W/mK, 27000kPa, A1(Non-combustible), 240minutes,,,
+29,30mm Glasroc F Firecase, 30, 1200, 2000,,, 25.5kg,, 0.300W/mK,,,,,, 0.1m2K/W
+30,30mm Knauf Fireboard - High Performance Plasterboard 1200mm x 2400mm, 30, 1200, 2400, 2.88m2, 840kg/m3, 25.2kg, 72.58kg, 0.230W/mK,, A1(Non-combustible), 120minutes,,,
+31,30mm Promat Monolux 800 Fire Protection Board , 30, 1220, 2440, 2.98m2, 920kg/m3, 27.6kg, 82.16kg,, 27000kPa, A1(Non-combustible), 240minutes,382.75,459.30,
+32,30mm Promat PROMATECT L500 Calcium Silicate Board for Fire Resistant Ducts, 30, 1200, 2500, 3m2, 500kg/m3, 15kg, 45kg, 0.090W/mK, 5500kPa, A1(Non-combustible),,,,
+33,310ml Promafour Glue 1000 - Fire Protective Glue,,,,,,,,,, A1(Non-combustible),,12.00,14.40,
+34,35mm Promat PROMATECT L500 Calcium Silicate Board for Fire Resistant Ducts - pallet of 25, 35, 1200, 2500, 3m2, 500kg/m3, 17.5kg, 999.99kg, 0.090W/mK, 5500kPa, A1(Non-combustible),,,,
+35,38.1mm Promat Monolux 500 Fire Protection Board , 38.1, 1220, 2440, 2.98m2, 750kg/m3, 28.56kg, 85.06kg, 0.180W/mK, 13000kPa, A1(Non-combustible), 240minutes,,,
+36,3l Promafour Primer - Fire Protective Primer,,,,,,,,,, A1(Non-combustible),,86.50,103.80,
+37,40mm Promat PROMATECT L500 Calcium Silicate Board for Fire Resistant Ducts, 40, 1200, 2500, 3m2, 500kg/m3, 20kg, 60kg, 0.090W/mK, 5500kPa, A1(Non-combustible),,,,
+38,50.8mm Promat Monolux 500 Fire Protection Board , 50.8, 1220, 2440, 2.98m2, 750kg/m3, 38.1kg, 113.42kg, 0.180W/mK, 13000kPa, A1(Non-combustible), 240minutes,,,
+39,50mm Promat Monolux 800 Fire Protection Board, 50, 1220, 2440, 2.98m2, 920kg/m3, 46kg, 136.93kg, 0.350W/mK, 27000kPa, A1(Non-combustible), 240minutes,583.94,700.73,
+40,50mm Promat PROMATECT L500 Calcium Silicate Board for Fire Resistant Ducts, 50, 1200, 2500, 3m2, 500kg/m3, 25kg, 75kg, 0.090W/mK, 5500kPa, A1(Non-combustible),,,,
+41,52mm Promat PROMATECT L500 Calcium Silicate Board for Fire Resistant Ducts, 52, 1200, 2500,, 500kg/m3, 26kg, 78kg, 0.090W/mK, 5500kPa, A1(Non-combustible),,,,
+42,6mm Masterboard Promat, 6, 1220, 2440, 2.98m2, 1000kg/m3, 6kg, 17.88kg, 0.220W/mK, 7000kPa, A2(Limited combustibility), 30minutes,75.61,63.01, 0.03m2K/W
+43,6mm Supalux Promat Fire Protection Board , 6, 1220, 2440, 2.98m2, 950kg/m3, 5.7kg, 17kg, 0.170W/mK, 6000kPa, A1(Non-combustible), 30minutes,105.50,87.92, 0.04m2K/W
+44,9mm Masterboard Promat  , 9, 1220, 2440, 2.98m2, 1000kg/m3, 9kg, 26.82kg, 0.220W/mK, 7000kPa, A2(Limited combustibility), 30minutes,117.64,98.03, 0.04m2K/W
+45,9mm Supalux Promat Fire Protection Board, 9, 1220, 2440, 2.98m2, 950kg/m3, 8.55kg, 25.48kg, 0.170W/mK, 6000kPa, A1(Non-combustible), 30minutes,168.04,140.03, 0.05m2K/W

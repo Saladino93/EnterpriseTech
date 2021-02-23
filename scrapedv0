@@ -33,6 +33,10 @@
 31,GTEC Universal Board,3000.0,1200.0,12.5,3.6,TE,16.7,20.04,https://www.buildingmaterials.co.uk//gtec-universal-board-3000mm-x-1200mm-x-12-5mm-te-3-6m2
 32,GTEC Universal Board,3000.0,1200.0,15.0,3.6,TE,23.21,27.85,https://www.buildingmaterials.co.uk//gtec-universal-board-3000mm-x-1200mm-x-15mm-te-3-6m2
 33,Knauf Fire Panel,1800.0,900.0,12.5,1.62,SE,16.86,20.23,https://www.buildingmaterials.co.uk//knauf-fire-panel-1800mm-x-900mm-x-12-5mm-se-1-62m2
-34,Knauf Fire Panel,2400.0,1200.0,12.5,2.88,TE,10.65,12.78,https://www.buildingmaterials.co.uk//knauf-fire-panel-2400mm-x-1200mm-x-12-5mm-te-2-88m2
-35,Knauf Fire Panel,2400.0,1200.0,15.0,2.88,TE,10.65,12.78,https://www.buildingmaterials.co.uk//knauf-fire-panel-2400mm-x-1200mm-x-15mm-te-2-88m2
-36,Knauf Fire Panel,2400.0,1200.0,12.5,2.88,SE,10.65,12.78,https://www.buildingmaterials.co.uk//knauf-fire-panel-2400mm-x-1200mm-x-12-5mm-se-2-88m2
+34,Knauf Fire Panel,2400.0,1200.0,12.5,2.88,SE,10.65,12.78,https://www.buildingmaterials.co.uk//knauf-fire-panel-2400mm-x-1200mm-x-12-5mm-se-2-88m2
+35,Knauf Fire Panel,2400.0,1200.0,12.5,2.88,TE,10.65,12.78,https://www.buildingmaterials.co.uk//knauf-fire-panel-2400mm-x-1200mm-x-12-5mm-te-2-88m2
+36,Knauf Fire Panel,2400.0,1200.0,15.0,2.88,TE,13.4,16.08,https://www.buildingmaterials.co.uk//knauf-fire-panel-2400mm-x-1200mm-x-15mm-te-2-88m2
+37,Fireproof Plasterboard,,,15.0,,TE,7.78,9.34,https://www.buildingmaterials.co.uk//fireproof-plasterboard-15mm
+38,British Gypsum Gyproc Fireline Plasterboard,,,12.5,,TE,5.81,6.97,https://www.buildingmaterials.co.uk//british-gypsum-gyproc-fireline-plasterboard-12-5mm
+39,Fireproof Plasterboard,,,12.5,,TE,6.48,7.78,https://www.buildingmaterials.co.uk//fireproof-plasterboard-12-5mm
+40,British Gypsum Gyproc Fireline Plasterboard,,,15.0,,TE,8.13,9.76,https://www.buildingmaterials.co.uk//british-gypsum-gyproc-fireline-plasterboard-15mm
